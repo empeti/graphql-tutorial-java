@@ -1,5 +1,4 @@
 com\howtoprogramgraphql\hackernews\LinkRepository.class
 com\howtoprogramgraphql\hackernews\GraphQLEndpoint.class
-com\howtoprogramgraphql\hackernews\Mutation.class
 com\howtoprogramgraphql\hackernews\Link.class
 com\howtoprogramgraphql\hackernews\Query.class
